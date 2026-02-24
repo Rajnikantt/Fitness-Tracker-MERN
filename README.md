@@ -21,6 +21,7 @@ Users can create programs, add exercises, log workouts, and track their fitness 
 - Axios
 - Tailwind CSS + Custom CSS
 
+
 **Backend:**
 - Node.js
 - Express.js

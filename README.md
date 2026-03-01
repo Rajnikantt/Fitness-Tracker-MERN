@@ -76,7 +76,7 @@ npm install
 
 Create a .env file inside the backend folder:
 PORT=5000
-MONGODB_URI=mongodb://localhost:27017/workout-tracker
+MONGODB_URI=mongodb://localhost:27017/database-name
 JWT_SECRET=your_secret_key
 NODE_ENV=development
 
